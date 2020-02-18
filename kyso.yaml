@@ -1,0 +1,5 @@
+main: main.md
+title: My main page
+posts:
+  - post1
+  - post2
